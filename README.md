@@ -18,4 +18,4 @@ To run this project, you will need to have installed:
 
 In the data source website you need to download the dataset in .csv file.
 
-With the software and the dataset in hand, run the .py file, choose the data order you want and the number os countries in the table.
+With the software and the dataset in hand, run the .py file, choose the data order you want and the number of countries in the table.
